@@ -4,7 +4,7 @@
   "description": "根据项目的公共组件，自动生成对应的页面和组件，构建一个公共组件平台，方便用户快速开发",
   "main": "bin/my-cli.js",
   "bin": {
-    "components-cli": "./bin/my-cli.js"
+    "components-cli": "/bin/my-cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
