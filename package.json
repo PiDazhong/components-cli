@@ -1,7 +1,7 @@
 {
-  "name": "components-cli",
+  "name": "components-cli-react",
   "version": "1.0.0",
-  "description": "A custom CLI tool for component generation",
+  "description": "根据项目的公共组件，自动生成对应的页面和组件，构建一个公共组件平台，方便用户快速开发",
   "main": "bin/my-cli.js",
   "bin": {
     "components-cli": "./bin/my-cli.js"
@@ -9,6 +9,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "cli",
+    "components",
+    "公共组件",
+    "公共组件平台"
+  ],
+  "author": "PiDazhong <your.email@example.com>",
+  "license": "MIT",
   "dependencies": {
     "commander": "^8.0.0",
     "chalk": "^4.1.2"
