@@ -1,0 +1,17 @@
+{
+  "name": "components-cli",
+  "version": "1.0.0",
+  "description": "A custom CLI tool for component generation",
+  "main": "bin/my-cli.js",
+  "bin": {
+    "components-cli": "./bin/my-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "commander": "^8.0.0",
+    "chalk": "^4.1.2"
+  },
+  "type": "module"
+}
