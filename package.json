@@ -1,6 +1,6 @@
 {
   "name": "components-cli-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "根据项目的公共组件，自动生成对应的页面和组件，构建一个公共组件平台，方便用户快速开发",
   "repository": {
     "type": "git",
